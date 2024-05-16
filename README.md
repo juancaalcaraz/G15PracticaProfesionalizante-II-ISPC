@@ -1,3 +1,4 @@
+![Texto alternativo](LOGOISPC.png)
 # G15PracticaProfesionalizante-II-ISPC
 ## Materia: Practica Profesionalizante
 **Carrera:** Ciencia de Datos e Inteligencia Artificial  
