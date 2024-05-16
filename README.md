@@ -1,8 +1,8 @@
 ![Texto alternativo](LOGOISPC.png)
-# G15PracticaProfesionalizante-II-ISPC
-## Materia: Practica Profesionalizante
+## Materia: Práctica Profesionalizante II
 **Carrera:** Ciencia de Datos e Inteligencia Artificial  
 **Grupo:** 15  
+**Cohorte:** 2022  
 
 **Alumnos:**
 - Juan Carlos Alcaraz - juan.alcaraz806@gmail.com
