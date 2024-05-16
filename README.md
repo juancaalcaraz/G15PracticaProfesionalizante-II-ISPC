@@ -1,13 +1,7 @@
 # G15PracticaProfesionalizante-II-ISPC
-## Análisis de Imágenes y Medios
-
-- Análisis de imágenes para detectar puntos de cosecha de frutos, flores, etc.
-- Análisis de sentimientos en redes sociales con foco en lo "no escrito" (imágenes, audios, etc.)
-- Análisis de imágenes para realizar auditoria de publicidad en medios (verificar si una imagen que pague para que aparezca, está donde pauté)
-- Análisis de sonido/habla para realizar auditoria de medios audiovisuales, verificando pauta formal e informal por la mención de marca
-- Scanner de Etiquetas de envases, utilizando procesamiento de imágenes para detectar el texto de una etiqueta, identificando ingredientes y características. A través de tecnologías de procesamiento del lenguaje natural, puede interpretar y sintetizar el texto escaneado, proporcionando una lectura clara y comprensible de los ingredientes y características de los productos.
-
-## Grupo: 15
+## Materia: Practica Profesionalizante
+**Carrera:** Ciencia de Datos e Inteligencia Artificial  
+**Grupo:** 15  
 
 **Alumnos:**
 - Juan Carlos Alcaraz - juan.alcaraz806@gmail.com
@@ -17,3 +11,18 @@
 - Roberto Schiaffino - schiaffino35@gmail.com
 - Eliana Karina Steinbrecher - karinasandua@gmail.com
 - Sergio Tamietto - serdantam@gmail.com
+
+## Mejora en la calidad del cannabis medicinal a través del procesamiento de imágenes
+
+**Introducción:**
+Durante las últimas décadas se ha establecido un creciente interés en la investigación y la elaboración de aceite de cannabis para el tratamiento de enfermedades y como paliativo del dolor. 
+Sin embargo, para poder elaborar un aceite de calidad, es necesario el control de posibles enfermedades, de carencias de nutrientes, el control de plagas y la posible aparición de hongos. Garantizando así una calidad óptima de la planta a la hora de realizarse la extracción del aceite.
+
+**Problema a abordar:**
+El problema que se desea abordar es la detección temprana de factores que deterioran la salud del cannabis.
+
+**Aplicación a explorar:**
+Vamos a explorar cómo el procesamiento de imágenes junto a las redes neuronales profundas pueden ser una herramienta clave para este problema.
+
+**Aspecto crucial del procesamiento de imágenes:**
+La detección de patrones en las imágenes creemos que va a ser una herramienta fundamental del procesamiento de imágenes y de la I.A. para el cuidado de las plantas en el futuro de la agricultura.
