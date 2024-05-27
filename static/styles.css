@@ -1,0 +1,81 @@
+/* Reset de estilos */
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f4f4f4; /* Color de fondo para toda la página */
+}
+
+.container {
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 20px;
+}
+
+.banner {
+    background-color: #b7dac5;
+    color: #534f4f;
+    padding: 10px 0;
+    text-align: center;
+}
+
+.logo {
+    width: 100px;
+    margin-right: 10px;
+}
+
+.banner .container {
+    display: flex;
+    align-items: center;
+    justify-content: center; /* Centra horizontalmente */
+}
+
+.upload-section {
+    background-color: #fff;
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+    margin-bottom: 20px;
+}
+
+.result {
+    background-color: #fff;
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+    display: flex;
+    align-items: flex-start; /* Alinea los elementos hacia arriba */
+}
+
+.image-container {
+    width: 400px; /* Tamaño fijo para el contenedor de la imagen */
+    height: auto; /* Altura ajustable para mantener la proporción */
+    margin-right: 20px; /* Espacio entre la imagen y los detalles del resultado */
+    overflow: hidden; /* Para asegurar que la imagen no se desborde del contenedor */
+}
+
+.image-container img {
+    width: 100%; /* La imagen ocupa todo el ancho del contenedor */
+    height: auto; /* Altura ajustable para mantener la proporción */
+}
+
+.result-details {
+    margin-top: 20px;
+}
+
+ul {
+    list-style: none;
+}
+
+footer {
+    background-color: #333;
+    color: #fff;
+    padding: 20px 0;
+    text-align: center;
+}
+
+
