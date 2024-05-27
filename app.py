@@ -1,4 +1,4 @@
-from flask import Flask, render_template, request, send_file
+from flask import Flask, render_template, request, send_file, send_from_directory
 import cv2
 import numpy as np
 import tensorflow as tf
@@ -100,7 +100,7 @@ def predict_image(image, model):
 # Ruta de la página principal
 @app.route('/')
 def index():
-    return render_template('index.html', prediction_result=None, image_data=None)
+    return send_from_directory('.', 'index.html')
 
 # Ruta para manejar la carga de imágenes y realizar predicciones
 @app.route('/predict', methods=['POST'])
@@ -130,3 +130,4 @@ def speak_result(result_text):
 
 if __name__ == '__main__':
     app.run(debug=True)
+
