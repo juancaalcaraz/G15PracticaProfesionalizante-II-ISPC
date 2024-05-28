@@ -12,7 +12,8 @@
 - Roberto Schiaffino - schiaffino35@gmail.com
 - Eliana Karina Steinbrecher - karinasandua@gmail.com
 - Sergio Tamietto - serdantam@gmail.com
-
+## CannAlisys PRO
+![CannAlisys](Cannalisys.png)
 ## Mejora en la calidad del cannabis medicinal a través del procesamiento de imágenes
 
 **Introducción:**
@@ -27,3 +28,37 @@ Vamos a explorar cómo el procesamiento de imágenes junto a las redes neuronale
 
 **Aspecto crucial del procesamiento de imágenes:**
 La detección de patrones en las imágenes creemos que va a ser una herramienta fundamental del procesamiento de imágenes y de la I.A. para el cuidado de las plantas en el futuro de la agricultura.
+
+## Resumen del Proyecto
+
+La aplicación permite a los usuarios cargar imágenes de hojas de plantas, las cuales son procesadas por un modelo de aprendizaje profundo para identificar posibles enfermedades. La aplicación muestra la predicción del modelo y proporciona información relevante sobre la enfermedad identificada. También ofrece la opción de generar un archivo de audio con la información de la enfermedad para una accesibilidad mejorada.
+
+## Librerías Utilizadas
+
+- **numpy**: Para operaciones numéricas y manejo de arrays.
+- **andas**: Para la manipulación y análisis de datos.
+- **matplotlib**: Para la visualización de datos y gráficos.
+- **opencv-python**: Para la manipulación y procesamiento de imágenes.
+- **tensorflow**: Framework de aprendizaje profundo utilizado para construir y entrenar el modelo.
+- **keras**: API de alto nivel de TensorFlow para la construcción y entrenamiento de modelos de redes neuronales.
+- **scikit-learn**: Para dividir el conjunto de datos en entrenamiento, validación y prueba.
+- **Flask**: Framework web para Python.
+predicción.
+- **gTTS**: Biblioteca para convertir texto a audio.
+- **base64**: Biblioteca para codificar y decodificar datos en base64.
+
+## Instalación
+
+Instala las dependencias:
+    ```bash
+    pip install -r requirements.txt
+    ```
+
+## Uso
+
+1. Coloca las imágenes de entrenamiento en el directorio `Train/`, organizadas en subdirectorios según sus categorías.
+2. Ejecuta el script principal:
+    ```bash
+    python script.py
+    ```
+3. El modelo entrenado se guardará como `full_model.h5`.
