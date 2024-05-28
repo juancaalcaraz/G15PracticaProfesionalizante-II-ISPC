@@ -14,7 +14,7 @@
 - Sergio Tamietto - serdantam@gmail.com
 ## CannAlisys PRO
 
-<div style="text-align: center;">
+<div style="display: flex; justify-content: center;">
     <img src="Cannalisys.png" alt="CannAlisys" width="300">
 </div>
 
