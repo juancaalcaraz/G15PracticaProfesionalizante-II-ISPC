@@ -57,8 +57,8 @@ Instala las dependencias:
 ## Uso
 
 1. Coloca las imágenes de entrenamiento en el directorio `Train/`, organizadas en subdirectorios según sus categorías.
-2. Ejecuta el script principal:
+2. Ejecuta los script principales de entrenamiento:
     ```bash
-    python script.py
+    python Entrenamiento.py
     ```
 3. El modelo entrenado se guardará como `full_model.h5`.
