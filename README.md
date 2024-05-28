@@ -13,7 +13,9 @@
 - Eliana Karina Steinbrecher - karinasandua@gmail.com
 - Sergio Tamietto - serdantam@gmail.com
 ## CannAlisys PRO
-![CannAlisys](Cannalisys.png)
+<div style="text-align: center;">
+    <img src="Cannalisys.png" alt="CannAlisys" width="300">
+</div>
 ## Mejora en la calidad del cannabis medicinal a través del procesamiento de imágenes
 
 **Introducción:**
