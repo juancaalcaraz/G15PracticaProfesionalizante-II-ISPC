@@ -14,9 +14,9 @@
 - Sergio Tamietto - serdantam@gmail.com
 ## CannAlisys PRO
 
-<div style="display: flex; justify-content: center;">
+<p align="center">
     <img src="Cannalisys.png" alt="CannAlisys" width="300">
-</div>
+</p>
 
 ## Mejora en la calidad del cannabis medicinal a través del procesamiento de imágenes
 
