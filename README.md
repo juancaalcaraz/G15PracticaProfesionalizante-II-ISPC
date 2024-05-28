@@ -62,3 +62,9 @@ Instala las dependencias:
     python Entrenamiento.py
     ```
 3. El modelo entrenado se guardará como `full_model.h5`.
+4. Ejecuta la aplicación Flask para la visualización web:
+    ```bash
+    python app.py
+    ```
+
+5. Abre tu navegador web y ve a `http://127.0.0.1:5000/` para acceder a la interfaz de usuario.
