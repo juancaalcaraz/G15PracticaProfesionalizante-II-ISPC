@@ -1,6 +1,5 @@
 import numpy as np
 import pandas as pd
-import matplotlib as plt
 import cv2
 import os
 from sklearn.model_selection import train_test_split
@@ -120,12 +119,3 @@ def predict_image(image_path):
 print(predict_image("TEST.JPG"))
 
 model.save("full_model.h5")
-
-# Guardar arquitectura del modelo en formato JSON
-model_json = model.to_json()
-with open("model.json", "w") as json_file:
-    json_file.write(model_json)
-
-# Guardar los pesos del modelo
-model.save_weights("model.weights.h5")
-print("Modelo guardado correctamente.")
