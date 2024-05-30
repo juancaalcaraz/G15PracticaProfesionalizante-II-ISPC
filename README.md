@@ -40,8 +40,7 @@ La aplicación permite a los usuarios cargar imágenes de hojas de plantas, las 
 ## Librerías Utilizadas
 
 - **numpy**: Para operaciones numéricas y manejo de arrays.
-- **andas**: Para la manipulación y análisis de datos.
-- **matplotlib**: Para la visualización de datos y gráficos.
+- **Pandas**: Para la manipulación y análisis de datos.
 - **opencv-python**: Para la manipulación y procesamiento de imágenes.
 - **tensorflow**: Framework de aprendizaje profundo utilizado para construir y entrenar el modelo.
 - **keras**: API de alto nivel de TensorFlow para la construcción y entrenamiento de modelos de redes neuronales.
