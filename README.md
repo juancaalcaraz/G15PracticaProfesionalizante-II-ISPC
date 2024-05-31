@@ -15,7 +15,7 @@
 ## CannAlisys PRO
 
 <p align="center">
-    <img src="Cannalisys.png" alt="CannAlisys" width="300">
+    <img src="static/Cannalisys.png" alt="CannAlisys" width="300">
 </p>
 
 ## Mejora en la calidad del cannabis medicinal a través del procesamiento de imágenes
