@@ -1,4 +1,4 @@
-![Texto alternativo](LOGOISPC.png)
+![Texto alternativo](static/LOGOISPC.png)
 ## Materia: Práctica Profesionalizante II
 **Carrera:** Ciencia de Datos e Inteligencia Artificial  
 **Grupo:** 15  
