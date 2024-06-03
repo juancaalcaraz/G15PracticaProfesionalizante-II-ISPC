@@ -37,6 +37,10 @@ La detección de patrones en las imágenes creemos que va a ser una herramienta 
 
 La aplicación permite a los usuarios cargar imágenes de hojas de plantas, las cuales son procesadas por un modelo de aprendizaje profundo para identificar posibles enfermedades. La aplicación muestra la predicción del modelo y proporciona información relevante sobre la enfermedad identificada. También ofrece la opción de generar un archivo de audio con la información de la enfermedad para una accesibilidad mejorada.
 
+## Dataset Utilizado
+
+https://www.kaggle.com/datasets/engineeringubu/leaf-manifestation-diseases-of-cannabis
+
 ## Librerías Utilizadas
 
 - **numpy**: Para operaciones numéricas y manejo de arrays.
